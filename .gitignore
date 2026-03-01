@@ -1,2 +1,4 @@
 .venv/
 Lab 1/faces_dataset/
+*.rar
+*.zip
